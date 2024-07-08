@@ -1,0 +1,19 @@
+	•	Prerequisites
+	•	Python 3.7 or higher
+	•	pip (Python package installer)
+	•	Tesseract OCR
+	•	OpenCV
+	•	Streamlit
+	•	PIL (Pillow)
+	•	numpy
+	•	pytesseract
+	•	pix2tex
+	•	latex2sympy2
+	•	sympy
+	•	re
+	•	os
+	•	google-generativeai
+	•	ssl
+	•	urllib
+	•	certifi
+	•	sqlite3
