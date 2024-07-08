@@ -98,6 +98,10 @@ Welcome to the Math Equation Solver, a Streamlit application that allows users t
 
 ## Project Structure
 
+https://github.com/aryana-27/Math-Equation-Solver/assets/148103911/088c07e8-0262-4301-a3cc-0cd5ace25b9e
+
+
+
 - `finalpro.py`: The main application file containing all the Streamlit code.
 - `requirements.txt`: List of all required Python packages.
 
