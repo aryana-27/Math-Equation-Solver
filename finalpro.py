@@ -15,12 +15,10 @@ import certifi  # for avoiding ssl error
 import sqlite3
 from streamlit import session_state
 
-# defining the gemini API KEY - "AIzaSyC2DA9OL4_NP4sXQZ-GxsZcikMc7jK8E0M" and setting it and the ssl context for avoiding ssl error 
-
 # **********************************************
 
 # Set the valid Google API key here
-os.environ['GOOGLE_API_KEY'] = "AIzaSyC2DA9OL4_NP4sXQZ-GxsZcikMc7jK8E0M"
+os.environ['GOOGLE_API_KEY'] = "YOUR API KEU"
 
 # Initialize the GenerativeModel with the API key
 model = genai.GenerativeModel("models/gemini-1.5-flash")
